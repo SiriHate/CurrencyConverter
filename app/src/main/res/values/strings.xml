@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+
+    <string-array name="country">
+        <item>Российский рубль</item>
+        <item>Доллар США</item>
+        <item>Евро</item>
+        <item>Швейцарский франк</item>
+        <item>Фунт стерлингов</item>
+        <item>Японская иена</item>
+        <item>Украинская гривна</item>
+        <item>Казахстанский тенге</item>
+        <item>Белорусский рубль</item>
+        <item>Турецкая лира</item>
+        <item>Китайский юань</item>
+        <item>Австралийский доллар</item>
+        <item>Канадский доллар</item>
+        <item>Польский злотый</item>
+    </string-array>
+
+    <string-array name="admin_country">
+        <item>Доллар США</item>
+        <item>Евро</item>
+        <item>Швейцарский франк</item>
+        <item>Фунт стерлингов</item>
+        <item>Японская иена</item>
+        <item>Украинская гривна</item>
+        <item>Казахстанский тенге</item>
+        <item>Белорусский рубль</item>
+        <item>Турецкая лира</item>
+        <item>Китайский юань</item>
+        <item>Австралийский доллар</item>
+        <item>Канадский доллар</item>
+        <item>Польский злотый</item>
+    </string-array>
+
+
+    <string name="info_line1">Инструкция по использованию:</string>
+    <string name="info_line2">1.Выбрать первую валюту (валюта вывода)</string>
+    <string name="info_line3">2.Выбрать вторую валюту (валюта ввода)</string>
+    <string name="info_line4">3.Ввести необходимое значение с клавиатуры</string>
+    <string name="info_line5">(Для перестановки валют местами используйте кнопку
+        между валютами)</string>
+    <string name="info_line6">Зачем нужен конвертер валют?</string>
+    <string name="info_line7">Конвертация валюты имеет практическое значение для туристов,
+        которые едут за границу, для предприятий, которые ведут бизнес за границей или участвуют
+        в импорте и экспорте, а также для трейдеров на валютном рынке. Например, путешественнику,
+        уезжающему из России в деловую поездку, может потребоваться обменять
+        российские рубли на фунты, евро, иены или другую валюту. Легкодоступный конвертер валют
+        пригодится, чтобы путешественник понимал сколько он в итоге получит
+        иностранной валюты при обмене.
+    </string>
+    <string name="info_line8">Важное примечание:</string>
+    <string name="info_line9">Для вашего удобства калькулятор рассчитывает значение валют с
+        точностью до 3 знаков после запятой с округлением
+</string>
+    <string name="info_line10">В связи с этим точность рассчитанной валюты может быть немного
+        ниже реально значения</string>
+    <string name="Admin_info">Панель администратора</string>
+    <string name="Author">SiriHate©</string>
+    <string name="text_live_currency">Текущий курс:</string>
+    <string name="live_currency">1 USD = 74.85 RUB</string>
+
+
+    <string name="Info">Авторизация</string>
+    <string name="Email_info">Почта:</string>
+    <string name="Login_btn">Войти</string>
+    <string name="Info2">Выберите тип учетной записи для входа:</string>
+    <string name="User_btn">Пользователь</string>
+    <string name="Admin_btn">Администратор</string>
+    <string name="Main_text">Авторизация</string>
+    <string name="Password_info">Пароль:</string>
+    <string name="Register_method">Регистрация</string>
+    <string name="Login_method">Вход</string>
+    <string name="Register_btn">Зарегистрироваться</string>
+    <string name="key_clear">⌫</string>
+    <string name="key_0">0</string>
+    <string name="key_dot">.</string>
+    <string name="key_3">3</string>
+    <string name="key_2">2</string>
+    <string name="key_1">1</string>
+    <string name="key_6">6</string>
+    <string name="key_8">8</string>
+    <string name="key_5">5</string>
+    <string name="key_4">4</string>
+    <string name="key_9">9</string>
+    <string name="key_7">7</string>
+    <string name="value_admin_info2">RUB</string>
+    <string name="admin_btn">Изменить</string>
+    <string name="value_admin_name">1 USD =</string>
+    <string name="value2_name">RUB</string>
+    <string name="value1_name">USD</string>
+    <string name="info_page">Info_page</string>
+    <string name="flag1">flag1</string>
+    <string name="change_position">Change_position</string>
+    <string name="flag2">flag2</string>
+    <string name="go_back">go_back</string>
+    <string name="Select_currency">Выберите валюту</string>
+
+</resources>
